@@ -4,8 +4,6 @@
 
 🔗 **[Open the Notebook](./llm-from-scratch.ipynb)**
 
----
-
 ## 📌 Overview
 
 This project is an educational walkthrough of the full process of building and training a **Minimal GPT-style Decoder Only Transformer Model**. The notebook covers:
@@ -17,15 +15,11 @@ This project is an educational walkthrough of the full process of building and t
 - 🎯 **Training from Scratch** – Using a small pretraining and SFT dataset to train a language model
 - 🔥 **Inference** – Generating text using the trained model
 
----
-
 ## 📂 Repository Structure
 
 📂 gpt-from-scratch
 │── 📄 README.md # Project documentation (this file)
 │── 📒 llm-from-scratch.ipynb # Jupyter Notebook with full training pipeline
-
----
 
 ## 🚀 Getting Started
 
@@ -54,8 +48,6 @@ jupyter notebook
 
 Open llm-from-scratch.ipynb and run
 
----
-
 ## 🎯 Goals & Use Cases
 
 ✅ Understand dataset formats and working with Huggingface libraries
@@ -64,8 +56,6 @@ Open llm-from-scratch.ipynb and run
 ✅ Train a small-scale Transformer on a custom dataset
 ✅ Understand self-attention and language modeling
 ✅ Experiment with fine-tuning & inference
-
----
 
 ## 🔗 Notebook & Resources
 
