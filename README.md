@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project is an educational walkthrough of the full process of building and training a **Minimal GPT-style Decoder Only Transformer Model**. The notebook covers:
+This project is an educational walkthrough of the process of building and training a **Minimal GPT-style Decoder Only Transformer Model**. The notebook covers:
 
 - 📖 **Tokenization** – Converting text into tokens
 - 🔄 **Positional Encoding** – Adding order to input sequences
@@ -17,8 +17,8 @@ This project is an educational walkthrough of the full process of building and t
 
 ## 📂 Repository Structure
 
-📂 gpt-from-scratch
-│── 📄 README.md # Project documentation (this file)
+📂 gpt-from-scratch  
+│── 📄 README.md # Project documentation (this file)  
 │── 📒 llm-from-scratch.ipynb # Jupyter Notebook with full training pipeline
 
 ## 🚀 Getting Started
@@ -50,17 +50,17 @@ Open llm-from-scratch.ipynb and run
 
 ## 🎯 Goals & Use Cases
 
-✅ Understand dataset formats and working with Huggingface libraries
-✅ Learn the process of tokenization
-✅ Learn the inner workings of GPT-style models
-✅ Train a small-scale Transformer on a custom dataset
-✅ Understand self-attention and language modeling
+✅ Understand dataset formats and working with Huggingface libraries  
+✅ Learn the process of tokenization  
+✅ Learn the inner workings of GPT-style models  
+✅ Train a small-scale Transformer on a custom dataset  
+✅ Understand self-attention and language modeling  
 ✅ Experiment with fine-tuning & inference
 
 ## 🔗 Notebook & Resources
 
-📌 Notebook: llm-from-scratch.ipynb
-📖 Transformer Paper: [“Attention Is All You Need"](https://arxiv.org/pdf/1706.03762)
-📖 GPT Paper: ["Improving Language Understanding by Generative Pre-Training"](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
-🛠 PyTorch Documentation: [pytorch.org](https://pytorch.org/)
+📌 Notebook: llm-from-scratch.ipynb  
+📖 Transformer Paper: [“Attention Is All You Need"](https://arxiv.org/pdf/1706.03762)  
+📖 GPT Paper: ["Improving Language Understanding by Generative Pre-Training"](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
+🛠 PyTorch Documentation: [pytorch.org](https://pytorch.org/)  
 👐 Huggingface Documentation: [https://huggingface.co/docs](https://huggingface.co/docs)
