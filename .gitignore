@@ -1,2 +1,3 @@
 .mypy_cache
 model_checkpoints
+.DS_Store
