@@ -35,7 +35,7 @@ cd gpt-from-scratch
 Make sure you have Python and Jupyter installed. Install required packages:
 
 ```bash
-pip install torch transformers datasets jupyter tiktoken
+pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Notebook
